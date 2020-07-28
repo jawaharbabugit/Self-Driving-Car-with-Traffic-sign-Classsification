@@ -1,0 +1,8 @@
+0 stop
+1 left
+2 right
+3 no horn
+4 no overtake
+5 speed down
+6 green
+7 red
